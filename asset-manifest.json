@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boodscode237/camerdevs/static/css/main.cb432ad6.css",
+    "main.js": "/boodscode237/camerdevs/static/js/main.38178847.js",
+    "static/js/787.c45ed234.chunk.js": "/boodscode237/camerdevs/static/js/787.c45ed234.chunk.js",
+    "static/media/logo.svg": "/boodscode237/camerdevs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/boodscode237/camerdevs/index.html",
+    "main.cb432ad6.css.map": "/boodscode237/camerdevs/static/css/main.cb432ad6.css.map",
+    "main.38178847.js.map": "/boodscode237/camerdevs/static/js/main.38178847.js.map",
+    "787.c45ed234.chunk.js.map": "/boodscode237/camerdevs/static/js/787.c45ed234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb432ad6.css",
+    "static/js/main.38178847.js"
+  ]
+}
